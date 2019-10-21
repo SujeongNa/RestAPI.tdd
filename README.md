@@ -1,12 +1,12 @@
 ## RestAPI.tdd
 
-This repository contains a simple user API code - GET, POST, PUT, DELETE
-Written in Test-Driven Development
+This repository contains a simple user API code - GET, POST, PUT, DELETE written in Test-Driven Development
 
 ## TDD in this project
 
-covered: integration test of API 
-not covered: unit test, functional test 
+Covered: integration test of API
+
+Not covered: unit test, functional test 
 
 ## Dependencies of testing libraries
 - [`mochajs`](https://mochajs.org/): test runner
@@ -15,19 +15,16 @@ not covered: unit test, functional test
 
 ## Prerequisites
  
-  [`nodejs`](https://nodejs.org/en/)
-  node package manager - [`npm`](https://www.npmjs.com/) or [`yarn`](https://yarnpkg.com/en/package/jest) 
+ - [`nodejs`](https://nodejs.org/en/)
+ - Package manager - [`npm`](https://www.npmjs.com/) or [`yarn`](https://yarnpkg.com/en/package/jest) 
   
 ## Getting started
 
-1. install node_modules/
+1. Install node_modules/
 
   ```bash 
   $npm install
-  ```
-  
-  or
-  ```bash
+  #or
   $yarn install
   ```
 
@@ -35,9 +32,7 @@ not covered: unit test, functional test
 
   ```bash
   $npm test
-  ```
-  
-  ```bash
+  #or
   $yarn test
   ```
 
