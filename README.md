@@ -3,10 +3,7 @@
 This repository contains a simple user API code - GET, POST, PUT, DELETE written in Test-Driven Development
 
 ## TDD in this project
-
-Covered: integration test of API
-
-Not covered: unit test, functional test 
+integration test of API
 
 ## Dependencies of testing libraries
 - [`mochajs`](https://mochajs.org/): test runner
